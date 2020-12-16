@@ -30,3 +30,4 @@
   ```
   python -m django --version
   ```
+
