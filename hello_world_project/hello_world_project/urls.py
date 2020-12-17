@@ -18,8 +18,10 @@ from django.urls import path
 
 # path指定
 from .views import helloworldfunction
+from .views import someview
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('helloworld/', helloworldfunction),
+    path('someview/', someview),
 ]

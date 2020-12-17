@@ -5,3 +5,5 @@ lib
 share
 etc
 pyvenv.cfg
+
+# django
