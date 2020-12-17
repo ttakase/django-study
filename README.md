@@ -30,4 +30,14 @@
   ```
   python -m django --version
   ```
-
+## djangoの基本的な使い方
+- djangoのプロジェクト作成
+  ```
+  django-admin startproject hello_world_project
+  ```
+  - 指定したプロジェクト名のディレクトリができる
+  - `-`を含む名前はは`invalid error`になるので注意
+- Webサーバーの立ち上げ
+  ```
+  python manage.py runserver
+  ```
