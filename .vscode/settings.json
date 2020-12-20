@@ -1,0 +1,13 @@
+{
+  // ----Python設定----
+  // "python.pythonPath": "/Users/ttakase/Documents/00.git/00.my/python-study/bin/python",
+  "python.pythonPath": "${workspaceRoot}/bin/python",
+  // "python.linting.pylintEnabled": false,
+  // "python.linting.flake8Enabled": true
+
+  // ---vscode設定---
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#006400",
+  },
+  "peacock.color": "#006400"
+}

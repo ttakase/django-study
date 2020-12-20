@@ -1,0 +1,9 @@
+# venv
+bin
+include
+lib
+share
+etc
+pyvenv.cfg
+
+# django
