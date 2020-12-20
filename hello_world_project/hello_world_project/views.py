@@ -21,7 +21,7 @@ def someview(request):
   print('-----------')
   print(Path(__file__).resolve().parent.parent) # 親の親を表示
 
-  return HttpResponse('')
+  return HttpResponse('someview check log')
 
 # class based view
 class HelloworldClass(TemplateView): # ()内でdjangoが準備しているTemplate継承をしている
