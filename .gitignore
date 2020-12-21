@@ -6,4 +6,5 @@ share
 etc
 pyvenv.cfg
 
-# django
+# pycharm
+/.idea
